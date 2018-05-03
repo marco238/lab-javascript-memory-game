@@ -1,4 +1,4 @@
-![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
+![HeroMemory Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3cKPM9NiWdZVs3XA0yqUhsA04y8G-49Fww9GwXvC_rZK0gr4R)
 # JS | Memory Game
 
 ## Learning Goals
