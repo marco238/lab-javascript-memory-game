@@ -24,8 +24,11 @@ It is the classic memory game where you need to match 2 cards to keep them flipp
 
 There are two levels:
   - Easy
+  
     ![Easy](http://res.cloudinary.com/dlmrvaeyh/image/upload/v1525384092/baby-footprint-heart.png)
+    
   - Hard
+  
     ![Hard](http://res.cloudinary.com/dlmrvaeyh/image/upload/c_scale,h_258,w_178/v1525384099/bloody-handprint.png)
 
 ## Take me to the game!!!
