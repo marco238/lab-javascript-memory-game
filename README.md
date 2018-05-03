@@ -17,7 +17,8 @@ Some of the tools I've used are:
 ## What is it about?
 
 It is the classic memory game where you need to match 2 cards to keep them flipped. You win if you get to flip them all.
+![Game example](http://res.cloudinary.com/dlmrvaeyh/image/upload/v1525383629/hero-game-example.png)
 
 ## Take me to the game!!!
 
-[HeroMemory Game](https://marco238.github.io/lab-javascript-memory-game/starter-code/memory.html)
+[HeroMemory Game](https://marco238.github.io/memory-game/starter-code/memory.html)
