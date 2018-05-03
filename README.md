@@ -6,7 +6,7 @@
 Some of the tools I've used are:
 
 - JavaScript
-- jQuery :wink:
+- jQuery
 - HTML5
 - CSS3
 
@@ -34,3 +34,6 @@ There are two levels:
 ## Take me to the game!!!
 
 [Superhero Memory Game](https://marco238.github.io/memory-game/starter-code/memory.html)
+
+## Hint
+Surprise at the end! :wink:
