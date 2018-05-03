@@ -34,4 +34,3 @@ There are two levels:
 ## Take me to the game!!!
 
 [Superhero Memory Game](https://marco238.github.io/memory-game/starter-code/memory.html)
-http://res.cloudinary.com/dlmrvaeyh/image/upload/v1525384092/baby-footprint-heart.png
